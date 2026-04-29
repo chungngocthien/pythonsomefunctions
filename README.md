@@ -7,3 +7,6 @@ Some Python functions are coded by an LLM and I want to store them.
 
 - txt_to_srt.py (gộp video, chuyển [00:00] thành phụ đề .srt trên youtube)
 
+- phân tích giọng đọc gốc và giọng đọc AI tạo sinh, đánh giá sự khác biệt
+
+- Resemblyzer.py (So sánh giọng đọc gốc và giọng đọc thứ hai khác nhau bao nhiêu, thường dùng cho Text-To-Speech của AI)
